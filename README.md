@@ -9,7 +9,7 @@ No significant issues
 
 
 ## Screenshot
-<img src="./assets/images/homepage.png"/>
+<img src="./assets/images/homepageScreenshot.png"/>
 ## Contact
 Christina DuWors
 christinaduwors@gmail.com
